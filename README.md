@@ -97,6 +97,11 @@ Todos os direitos autorais das marcas de celulares (Samsung, Apple, Motorola, et
 - Maria Luiza Nunes dos Santos Silva 
 - Nicoli Isabel Huallpa Coarite 
 
+## Lincença
+
+Este projeto é de uso educacional e pode ser livremente estudado, adaptado e distribuído com fins de aprendizado.
+Sinta-se à vontade para contribuir, modificar e aprimorar o sistema.
+
 **Ano de desenvolvimento: 2025**
 **Instituição: ETEC Parque da Juventude**
 
