@@ -62,12 +62,11 @@ O **Sistema de Vendas de Celulares** resolve esse problema ao:
 O projeto pode ser desenvolvido com diferentes tecnologias, mas a estrutura base sugerida é:
 
 **Banco de Dados:**
-- MySQL (ou Firebase para versão simplificada)
+- MySQL Workbench
 
 **Ferramentas adicionais:**
 - Git e GitHub para controle de versão  
 - VS Code para desenvolvimento  
-- Cloudflare e Figma (opcional, para wireframes)
 - App.Diagrams.net para o DER
 
 ---
