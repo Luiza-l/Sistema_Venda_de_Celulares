@@ -98,8 +98,9 @@ Todos os direitos autorais das marcas de celulares (Samsung, Apple, Motorola, et
 
 ## Lincença
 
-Este projeto é de uso educacional e pode ser livremente estudado, adaptado e distribuído com fins de aprendizado.
-Sinta-se à vontade para contribuir, modificar e aprimorar o sistema.
+## Licença
+
+Este projeto é de uso educacional e está sob a **[Licença MIT](./LICENSE)** — © 2025 ETEC Parque da Juventude.
 
 **Ano de desenvolvimento: 2025**
 **Instituição: ETEC Parque da Juventude**
